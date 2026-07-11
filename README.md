@@ -98,10 +98,3 @@ New Features:      3 engineered + encoding columns added
 - Winsorization preserves data volume better than row deletion for outliers
 - One-Hot Encoding must be used over Label Encoding for nominal categories to avoid false ordinal relationships
 
----
-
-## Internship
-**Organization:** Decode Labs  
-**Track:** Data Science  
-**Duration:** June 25 – July 25, 2026  
-**Mode:** Remote / Virtual
